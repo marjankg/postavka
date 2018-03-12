@@ -1,0 +1,2 @@
+# postavka
+postavljanje fajla
